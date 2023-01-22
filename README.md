@@ -1,4 +1,7 @@
-# test_projet_NY
+# api_NY
+
+website : https://developer.nytimes.com/apis
+
 
 To build the container and run the app:
 
