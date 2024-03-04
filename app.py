@@ -15,7 +15,8 @@ db = client['nytimes']
 @app.route('/mostpopular', methods=['GET'])
 def most_popular():
     # Get API key
-    api_key = 'ZUoI1EXi6ErVrsdCGO1tcaEwuWdJ8Wni'
+    api_key = 'enter your key
+    '
 
     # Make API request
     url = f'https://api.nytimes.com/svc/mostpopular/v2/viewed/1.json?api-key={api_key}'
